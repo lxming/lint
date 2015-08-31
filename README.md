@@ -6,4 +6,5 @@
 |[Find peak element](http://www.lintcode.com/en/problem/find-peak-element/)|[java](lint/find_peak_element/Solution.java)|binary search|
 |[Find peak element II](http://www.lintcode.com/en/problem/find-peak-element-ii/)|[java](lint/find_peak_element_ii/Solution.java)|binary search|
 |[Interval Sum](http://www.lintcode.com/en/problem/interval-sum/#)|[java](lint/interval_sum/Solution.java)|segement tree|
+|[Interval Sum II](http://www.lintcode.com/en/problem/interval-sum-ii)|[java](lint/interval_sum_ii/Solution.java)|segement tree|
 
