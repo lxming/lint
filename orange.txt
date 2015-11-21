@@ -1,5 +1,3 @@
-hi 3
-he2
 really
 real amend
 test amend again
