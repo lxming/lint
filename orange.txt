@@ -1,3 +1,4 @@
+blah
 test amend again
 blah
 commit at master
