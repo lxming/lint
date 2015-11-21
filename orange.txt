@@ -1,9 +1,10 @@
-ha
-he
+hi 3
+he2
+really
+real amend
+test amend again
 commit at master
 commit 1
 commit 2
 commit 3
-
-
 
