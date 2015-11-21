@@ -1,5 +1,6 @@
-blah
-test amend again
+t
+st amend again
+sdf
 blah
 commit at master
 commit 1
