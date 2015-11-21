@@ -1,5 +1,8 @@
-blah
-orange
-so what
-blah
+really
+real amend
+test amend again
+commit at master
+commit 1
+commit 2
+commit 3
 
