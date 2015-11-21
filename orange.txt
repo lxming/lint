@@ -1,4 +1,6 @@
-test amend
+really
+real amend
+test amend again
 commit at master
 commit 1
 commit 2
