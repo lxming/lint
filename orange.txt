@@ -1,7 +1,3 @@
-hi 3
-he2
-really
-real amend
 test amend again
 commit at master
 commit 1
