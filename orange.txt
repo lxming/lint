@@ -1,5 +1,3 @@
-really
-real amend
 test amend again
 commit at master
 commit 1
