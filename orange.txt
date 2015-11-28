@@ -6,6 +6,8 @@ add bean
 thanksgiving
 christmas
 good
+add test2
+add test3
 
 
 
